@@ -5,6 +5,7 @@ document.addEventListener("mousemove",function(dets){
 })
 
 
+
 var tl = gsap.timeline({
     scrollTrigger:{
         trigger:"#box1",
